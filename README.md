@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 ![Fridec13's GitHub stats](https://github-readme-stats-eight-rose-72.vercel.app/api?username=fridec13)
+![Top-langs](https://github-readme-stats-eight-rose-72.vercel.app/api/top-langs/?username=fridec13)
