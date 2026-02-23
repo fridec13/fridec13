@@ -53,14 +53,9 @@ AI/DB를 활용한 간단한 서비스 제작 및 배포
 - 정보처리기사 (2025.06)
 - SQLD / SQL Developer (2025.09)
 - ISTQB Foundation Level (2025.10)
-- TOEIC 875 / TOEIC Speaking 120
+- TOEIC Speaking 120
 
 ---
-
-> If you’re reviewing this profile for a Technical Writer role:
-> I can turn research artifacts (notes, logs, PoC, findings) into client-ready deliverables:
-> clear structure, consistent terminology, and actionable remediation-oriented writing.
-
 
 ![Fridec13's GitHub stats](https://github-readme-stats-eight-rose-72.vercel.app/api?username=fridec13)
 ![Top-langs](https://github-readme-stats-eight-rose-72.vercel.app/api/top-langs/?username=fridec13)
